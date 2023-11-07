@@ -1,7 +1,7 @@
 export const data = [
   {
     id: 1,
-    img : './src/assets/eyeware.png',
+    img : 'https://i.imgur.com/9qz3DKP.png',
     name : 'Eyesome Glassware Store',
     desc : 'Eyesome is a platform dedicated to providing a seamless shopping experience for eyewear products . this application i built using mern stack and state management using contextApi And tailwind css to make fully responsive website this appication have all the feature all e-commrece platform ',
     technology : [
@@ -13,7 +13,7 @@ export const data = [
   },
   {
     id: 2,
-    img : './src/assets/redux.png',
+    img : 'https://i.imgur.com/2LnjrpV.png',
     name : 'Shopcart By Redux-toolkit',
     desc : "I built a full-featured Shoping cart application for the project.  I utilize Redux and React.js to manage our states. Additionally, I've learnt how to create Modal  and make applicaions more user friendly",
     technology : [
@@ -24,7 +24,7 @@ export const data = [
   },
   {
     id: 3,
-    img : './src/assets/book.png',
+    img : 'https://i.imgur.com/0iR1P6f.png',
     name : 'Book Store Application',
     desc : "I built a full-featured Book application for the project. I completed all CRUD tasks. I utilize mern stack . Additionally, I've learnt how to use toster and spinner to create more interactive UI. This app is completely 'beginner' friendly. I hope you find it enjoyable.   ",
     technology : [
@@ -35,7 +35,7 @@ export const data = [
   },
   {
     id: 4,
-    img : './src/assets/weater.png',
+    img : 'https://i.imgur.com/YvT1nDs.png',
     name : 'Weather App ',
     desc : 'Through this application user can get real time weather informations with one click , and time , This applications I built with openweatherApi , use fetch and axios to get real time weather by name desing a beautiful UI desing using vanila css ',
     technology : [
@@ -46,7 +46,7 @@ export const data = [
   },
   {
     id: 5,
-    img : './src/assets/radommeme.png',
+    img : 'https://i.imgur.com/Dh2IECy.png',
     name : 'Random Meme Generator',
     desc : "t's an application that lets users produce random Memes . The user can generate meme with one click.",
     technology : [
