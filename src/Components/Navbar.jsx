@@ -45,7 +45,7 @@ const DropDown = () => {
     return (
         <ul className='list-none absolute right-2 top-8 w-16 p-1 rounded-lg  bg-hoverColor block '>
         <li className='py-1 text-black hover:bg-slate-600 rounded-lg '><a href="https://github.com/amitkain7"><AiFillGithub /></a></li>
-        <li className='py-1 text-black hover:bg-slate-600 rounded-lg '><a href="in/amit-kaintura-000b7518b"><AiFillLinkedin /></a></li>
+        <li className='py-1 text-black hover:bg-slate-600 rounded-lg '><a href="https://www.linkedin.com/in/amit-kaintura-000b7518b"><AiFillLinkedin /></a></li>
         <li className='py-1 text-black hover:bg-slate-600 rounded-lg '><a href="https://twitter.com/Alex13836155?t=Wdce5wqDR4Vj9ppTTTi-RA&s=09"><RiTwitterXLine /></a></li>
     </ul>
     )
