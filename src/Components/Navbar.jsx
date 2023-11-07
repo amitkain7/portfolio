@@ -13,7 +13,7 @@ const Navbar = () => {
         <div className='flex  justify-around items-center sticky top-0  h-16  shadow-md  z-10 w-full'style={blur} >
             <div className=' flex  items-center cursor-pointer gap-2 '>
                 <img src={logo} alt='logo' width={40} />
-                <h1 className='  tracking-wide text-sm md:text-xl  hover:text-hoverColor'>Amit Kaintura</h1>
+                <h1 className='  tracking-wide text-sm md:text-xl  hover:text-hoverColor'><AnchorLink href='#hero'>Amit Kaintura</AnchorLink></h1>
             </div>
             <div className=''>
                 <ul className=' flex gap-4 text-sm md:text-xl list-none'>
