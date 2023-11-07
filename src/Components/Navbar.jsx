@@ -25,7 +25,7 @@ const Navbar = () => {
             <div className=' hidden md:block'>
                 <div className='flex text-xl gap-4 '>
                     <a className='hover:scale-125 hover:text-purple-700' href="https://github.com/amitkain7"><AiFillGithub /></a>
-                    <a className='hover:scale-125  hover:text-blue-700' href="in/amit-kaintura-000b7518b"><AiFillLinkedin /></a>
+                    <a className='hover:scale-125  hover:text-blue-700' href="https://www.linkedin.com/in/amit-kaintura-000b7518b"><AiFillLinkedin /></a>
                     <a className='hover:scale-125 hover:text-gray-800 ' href="https://twitter.com/Alex13836155?t=Wdce5wqDR4Vj9ppTTTi-RA&s=09"><RiTwitterXLine /></a>
                 </div>
             </div>
